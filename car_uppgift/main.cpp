@@ -407,6 +407,10 @@ public:
 		std::cout << "El nombre de la calificacion es: " << nomeMateria << ", la clave es: " << clave << "." << "la calific es: " << calificacion << std::endl;
 	}
 };
+
+void helsnig() {
+	std::cout << "Hello World";
+}
 int main(){
 	int a = 5;
 	int b = 7;
