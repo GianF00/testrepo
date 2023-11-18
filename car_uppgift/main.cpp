@@ -410,6 +410,10 @@ public:
 
 void helsnig() {
 	std::cout << "Hello World";
+	
+}
+void comida() {
+	std::cout << "Me gusta la carne y a ti?";
 }
 int main(){
 	int a = 5;
