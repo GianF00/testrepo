@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\gianf\source\repos\car_uppgift\car_uppgift\main.cpp(189,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  car_uppgift.vcxproj -> C:\Users\gianf\source\repos\car_uppgift\x64\Debug\car_uppgift.exe
